@@ -1,0 +1,1 @@
+convert_pdf_file.py --pdf_file_path "D:\Python" --open_search_index_name testindex1 --document_url <pdf_document_url> --custom_column_config_file_path <absolute_path_to_config_file_with_custom_column_names>
